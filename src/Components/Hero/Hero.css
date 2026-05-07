@@ -1,0 +1,11 @@
+.hero{
+    max-width: 1200px;
+    background: transparent;
+}
+.hero h1{
+     padding-top: 122px;
+}
+.hero img{
+    background-size: cover;
+    
+}

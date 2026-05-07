@@ -1,0 +1,29 @@
+.navbar{
+    display: inline-flex;
+}
+.navbar h3{
+    font-size: 25px;
+    margin-right: 400px;
+
+}
+.navbar ul{
+    text-align: center;
+    padding-left: 1000px;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+.navbar li{
+    text-decoration: none;
+    list-style: none;
+    gap: 30px;
+    padding: 10px;
+}
+.navbar button{
+    width: 100%;
+    height: 60%;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    border-radius: 15px;
+}
